@@ -5,6 +5,13 @@ The application is built with a **React.js + Tailwind CSS frontend**, **Node.js 
 
 ---
 
+## 🎥 Screencast
+
+You can watch the demo video of Task Master here:  
+[📺 Click to View Screencast]([https://your-screencast-link-here](https://drive.google.com/file/d/1DRv6uTB2KkL1cgM-1KQ_f5ZCZTIxLDXM/view?usp=drive_link))
+
+---
+
 ## 📌 Project Overview
 Task Master allows users to:
 - Create, update, and delete tasks.
