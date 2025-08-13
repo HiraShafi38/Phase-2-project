@@ -46,19 +46,23 @@ Task Master allows users to:
 
 ## 🚀 Installation & Running the Project
 
-Run the following commands in a **single terminal** from the project root:
+Follow these steps to set up and run Task Master on your local machine:
 
-# 1️⃣ Clone the repository
+## Step 1: Clone the repository
 git clone https://github.com/your-username/Task-Master.git
 cd Task-Master
 
-# 2️⃣ Install dependencies
+## Step 2: Install all dependencies
 npm install
 
-# 3️⃣ Create a .env file in the root folder and add:
-# PORT=5000
-# MONGO_URI=your_mongodb_connection_string
-# JWT_SECRET=your_jwt_secret
+## Step 3: Create a .env file in the project root and add:
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+
+## Step 4: Start the development server
+npm run dev
+
 
 # 4️⃣ Start the development server
 npm run dev
