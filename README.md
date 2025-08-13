@@ -63,6 +63,3 @@ JWT_SECRET=your_jwt_secret
 ## Step 4: Start the development server
 npm run dev
 
-
-# 4️⃣ Start the development server
-npm run dev
